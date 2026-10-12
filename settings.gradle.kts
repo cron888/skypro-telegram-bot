@@ -1,0 +1,1 @@
+rootProject.name = "skypro-telegrm-bot"
