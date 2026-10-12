@@ -41,3 +41,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Bot credentials ###
+src/main/resources/application.properties
+src/main/resources/bot-token.properties
